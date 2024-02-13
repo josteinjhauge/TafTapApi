@@ -1,0 +1,6 @@
+@TafTapApi_HostAddress = http://localhost:5157
+
+GET {{TafTapApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
